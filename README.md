@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mateus</h1>
 <h3 align="center">A cool guy learning techs.</h3>
 
-- 🔭 I’m currently working on **Multiple Things:)**
+- 🔭 I’m currently working on **Multiple Things :)**
 
 - 🌱 I’m currently learning **Rust**
 
