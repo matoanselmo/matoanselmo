@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mateus</h1>
 <h3 align="center">A cool guy learning techs.</h3>
 
-<h3 align="center">- 🔭 I’m currently working on **Multiple Things:)**</h3>
+<h3 align="center">🔭 I’m currently working on **Multiple Things:)**</h3>
 
-<h3 align="center">- 🌱 I’m currently learning **Rust**</h3>
+<h3 align="center">🌱 I’m currently learning **Rust**</h3>
 
-<h3 align="center">- 📫 How to reach me **Mato#0001 (Discord)**</h3>
+<h3 align="center">📫 How to reach me **Mato#0001 (Discord)**</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
