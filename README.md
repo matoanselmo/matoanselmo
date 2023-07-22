@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning C#.  
   
 
-- ⚡ Fun fact: OpenAI is my best friend.  
+- ⚡ Fun fact: I don't know any fun facts.  
   
 
 <br/>  
@@ -52,7 +52,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mato-26
 &show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+  
 
 ### 
   
