@@ -1,19 +1,71 @@
-<h1 align="center">Hi 👋, I'm Mateus</h1>
-<h3 align="center">A cool guy learning techs.</h3>
+### <div align="center">Hello! I'm Mateus.</div>  
+  
 
-- 🔭 I’m currently working on **Multiple Things :)**
+- 🔭 I’m currently working on some games.  
+  
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning C#.  
+  
 
-- 📫 How to reach me **Mato#0001 (Discord)**
+- ⚡ Fun fact: OpenAI is my best friend.  
+  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<br/>  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mato-26&show_icons=true&locale=en" alt="mato-26" /></p>
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
-*OpenAI is my best friend :p*
+<div align="center">  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
+<a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+</td><td valign="top" width="33%">
+
+
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/https://github.com/Mato-26" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/user/https://www.youtube.com/channel/UCHHW5WO5irslGFfsYQo7f5g" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mato-26
+&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+
+### 
+  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=q23ee2z22glivdh7byk56z11e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
+
+<br/>  
+
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
