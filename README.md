@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=mato&fontSize=40&fontColor=ffffff&fontAlignY=34" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=mato&fontSize=40&fontColor=ffffff&fontAlignY=36" width="100%" />
 </div>
 
 <div align="center">
@@ -9,9 +9,8 @@
 <br/>
 
 <div align="center">
-  <img src="./card.svg" alt="about me" />
+  <img src="./card.svg" alt="about me" width="50%" />
 </div>
-
 <br/>
 
 <div align="center">
