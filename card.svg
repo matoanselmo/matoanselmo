@@ -30,7 +30,7 @@
     <tspan fill="#5c6370" style="fill:rgb(92, 99, 112);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;JetBrains Mono&quot;, monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">// 🇧🇷 → 🇨🇦</tspan>
   </text>
 
-  <!-- line 3: indented String[] focus = { "backend", "minecraft" }; -->
+  <!-- line 3: indented String[] focus = { "school", "spring boot", "homelab" }; -->
   <text font-family="'JetBrains Mono', monospace" font-size="12" y="72" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;JetBrains Mono&quot;, monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">
     <tspan x="150" fill="#e06c75" style="fill:rgb(224, 108, 117);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;JetBrains Mono&quot;, monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">String</tspan>
     <tspan fill="#abb2bf" style="fill:rgb(171, 178, 191);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;JetBrains Mono&quot;, monospace;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">[] focus </tspan>
