@@ -1,35 +1,30 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=mato&fontSize=40&fontColor=ffffff&fontAlignY=36" width="100%" />
-</div>
+## Mateus Anselmo
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=7C6FFF&center=true&vCenter=true&width=500&lines=i+like+to+wander+on+the+internet;i+like+self-hosting;matoanselmo.tech" alt="typing" />
-</div>
+student · self-hoster · backend\
+from 🇧🇷, living in 🇨🇦
 
-<br/>
+[matoanselmo.runs-on.dev](https://matoanselmo.runs-on.dev)
 
-<div align="center">
-  <img src="./card.svg" alt="about me" width="50%" />
-</div>
-<br/>
+---
 
-<div align="center">
+#### `01` projects
 
-### 🛠 stack
+- **[tessera](https://github.com/matoanselmo/tessera)**: a desktop shell for niri, square tiles and One Dark
+- **[website](https://github.com/matoanselmo/website)**: my site, the page at matoanselmo.runs-on.dev
+- **mimi3D**: a custom recycled cartesian bedslinger, designed by me
 
-<img src="https://skillicons.dev/icons?i=java,spring,astro,mongodb,docker,linux,cloudflare,github&theme=dark" />
+#### `02` into
 
-</div>
-<br/>
+backend · self-hosting · 3d printing · electronics
 
-<div align="center">
-  <a href="https://matoanselmo.tech">
-    <img src="https://img.shields.io/badge/matoanselmo.tech-7C6FFF?style=for-the-badge&logo=astro&logoColor=white" />
-  </a>
-</div>
+#### `03` stack
 
-<div align="center">
-  <sub><sup>scar & rug &lt;3</sup></sub>
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
-</div>
+<img src="https://cdn.simpleicons.org/openjdk/e5c07b" height="32" alt="Java" title="Java" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/rust/e06c75" height="32" alt="Rust" title="Rust" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/spring/98c379" height="32" alt="Spring" title="Spring" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/astro/c678dd" height="32" alt="Astro" title="Astro" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/mongodb/98c379" height="32" alt="MongoDB" title="MongoDB" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/docker/61afef" height="32" alt="Docker" title="Docker" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/linux/e5c07b" height="32" alt="Linux" title="Linux" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/cloudflare/e5c07b" height="32" alt="Cloudflare" title="Cloudflare" />&nbsp;&nbsp;&nbsp;<img src="./klipper.png" height="32" alt="Klipper" title="Klipper" />
+
+#### `04` tools
+
+<img src="https://cdn.simpleicons.org/intellijidea/c678dd" height="32" alt="IntelliJ IDEA" title="IntelliJ IDEA" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/zedindustries/61afef" height="32" alt="Zed" title="Zed" />&nbsp;&nbsp;&nbsp;<img src="./klipper.png" height="32" alt="Klipper" title="Klipper" />
+
+---
+
+<sub>scar & rug &lt;3</sub>
